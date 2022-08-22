@@ -1,0 +1,41 @@
+﻿<Controls:MetroWindow 
+        x:Class="OnBreak.View.Listado_contratos"
+        xmlns:iconPacks1="http://metro.mahapps.com/winfx/xaml/iconpacks"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OnBreak.View"
+        mc:Ignorable="d"
+        Title="OnBreak : Listado Contratos" WindowStartupLocation="CenterScreen" WindowStyle="ThreeDBorderWindow" GlowBrush="Black" d:DesignWidth="774" d:DesignHeight="541">
+    <ScrollViewer Background="#FF19565A" BorderBrush="Black" Foreground="Black" Margin="0,0,0,-1">
+        <Grid Background="#FF5BB4B2">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto" MinHeight="461.8"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.1*" />
+                <ColumnDefinition Width="*"  />
+                <ColumnDefinition Width="0.1*"/>
+            </Grid.ColumnDefinitions>
+            <StackPanel VerticalAlignment="Top" Grid.Column="1" Grid.Row="1" Margin="10,10,10,10">
+                <Label Content=" Lista de Contratos" FontSize="52" FontFamily="Great Vibes" Margin="10,10,10,10" FontWeight="Bold" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            </StackPanel>
+            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="1" Grid.Row="2" Margin="0,111.5,0,0" >
+                <DataGrid Margin="10,10,10,10" Height="265" Width="622.8" VerticalContentAlignment="Stretch" HorizontalContentAlignment="Stretch" HorizontalAlignment="Center" VerticalAlignment="Center" Background="#FF296E6F" GridLinesVisibility="All" HorizontalGridLinesBrush="#FF0B2832" VerticalGridLinesBrush="#FF0B2832"/>
+                <StackPanel HorizontalAlignment="Center" VerticalAlignment="Stretch" Orientation="Horizontal">
+                    <CheckBox />
+                    <CheckBox/>
+                    <CheckBox/>
+                </StackPanel>
+                <Button Margin="10,10,10,10" Content="Ver Contratos"/>
+
+
+            </StackPanel>
+
+        </Grid>
+    </ScrollViewer>
+</Controls:MetroWindow>

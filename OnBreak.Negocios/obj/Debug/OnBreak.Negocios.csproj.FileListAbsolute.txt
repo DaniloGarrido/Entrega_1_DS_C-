@@ -1,0 +1,39 @@
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.Negocios\bin\Debug\OnBreak.Negocios.dll
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.Negocios\bin\Debug\OnBreak.Negocios.pdb
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.Negocios\obj\Debug\OnBreak.Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.Negocios\obj\Debug\OnBreak.Negocios.dll
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.Negocios\obj\Debug\OnBreak.Negocios.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.Negocios\bin\Debug\OnBreak.Negocios.dll.config
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.Negocios\bin\Debug\OnBreak.Negocios.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.Negocios\bin\Debug\OnBreak.Negocios.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.Negocios\bin\Debug\EntityFramework.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.Negocios\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.Negocios\bin\Debug\OnBreak.Datos.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.Negocios\bin\Debug\OnBreak.Datos.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.Negocios\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.Negocios\bin\Debug\EntityFramework.xml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.Negocios\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.Negocios\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.Negocios\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.Negocios\obj\Debug\OnBreak.Negocios.csprojAssemblyReference.cache
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.Negocios\obj\Debug\OnBreak.Negocios.csproj.CoreCompileInputs.cache
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.Negocios\obj\Debug\OnBreak.Negocios.csproj.CopyComplete
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.Negocios\obj\Debug\OnBreak.Negocios.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.Negocios\obj\Debug\OnBreak.Negocios.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.Negocios\obj\Debug\OnBreak.Negocios.csprojAssemblyReference.cache
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.Negocios\obj\Debug\OnBreak.Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.Negocios\obj\Debug\OnBreak.Negocios.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.Negocios\obj\Debug\OnBreak.Negocios.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.Negocios\bin\Debug\OnBreak.Negocios.dll.config
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.Negocios\bin\Debug\OnBreak.Negocios.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.Negocios\bin\Debug\OnBreak.Negocios.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.Negocios\bin\Debug\EntityFramework.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.Negocios\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.Negocios\bin\Debug\OnBreak.Datos.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.Negocios\bin\Debug\OnBreak.Datos.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.Negocios\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.Negocios\bin\Debug\EntityFramework.xml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.Negocios\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.Negocios\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.Negocios\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.Negocios\obj\Debug\OnBreak.Negocios.csproj.CopyComplete

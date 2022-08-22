@@ -1,0 +1,81 @@
+﻿<Controls:MetroWindow
+        x:Class="OnBreak.View.MainWindow"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:iconPacks1="http://metro.mahapps.com/winfx/xaml/iconpacks"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OnBreak.View"
+        mc:Ignorable="d"
+        Title="OnBreak : Menu Principal" Height="700" Width="600" WindowStartupLocation="CenterScreen" WindowStyle="ThreeDBorderWindow" GlowBrush="Black">
+    <Controls:MetroWindow.LeftWindowCommands>
+        <Controls:WindowCommands>
+            <Button>
+                <iconPacks1:PackIconModern Kind="CircleGrowth"/>
+            </Button>
+        </Controls:WindowCommands>
+    </Controls:MetroWindow.LeftWindowCommands>
+    <Controls:MetroWindow.RightWindowCommands>
+        <Controls:WindowCommands>
+            <Button Click="Alto_contraste">
+                <iconPacks1:PackIconModern Kind="Contrast"/>
+            </Button>
+
+
+
+        </Controls:WindowCommands>
+    </Controls:MetroWindow.RightWindowCommands>
+
+
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF5BBAB8" Offset="0"/>
+                <GradientStop Color="#FF0B86AB" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <StackPanel HorizontalAlignment="Center" Grid.RowSpan="1" >
+            <Border x:Name="border" Width="366" Height="312"  >
+
+                <Border.Background>
+                    <ImageBrush ImageSource="Resources/Untitled-2.png" Stretch="UniformToFill" />
+                </Border.Background>
+
+            </Border>
+
+
+        </StackPanel>
+
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2">
+            <Border CornerRadius="15" BorderThickness="2.5" BorderBrush="Black" >
+                <Border.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF4EA0B9" Offset="1"/>
+                        <GradientStop Color="#FF5FD2F6"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+
+                <StackPanel>
+
+                    <Label   HorizontalAlignment="Center" FontFamily="Great Vibes" Content="Bienvenido Usuario:" Margin="0,10,0,5" FontSize="36" FontWeight="Bold"/>
+                    <Button   x:Name="bnt_admin_cli" Content="Administracion de clientes" BorderBrush="Black" Height="25" Width="250" Margin="0,5,0,5" Background="#FF509DF8" Click="btnclick_admin_cli" />
+                    <Button   x:Name="bnt_list_cli" Content="Listado de Clientes" BorderBrush="Black" Height="25" Width="250" Margin="1.066,5" Background="#FF509DF8" Click="bntclick_list_cli" />
+                    <Button   x:Name="bnt_admin_contra" Click="bntclick_admin_contra" Content="Administracion de Contratos" BorderBrush="Black" Height="25" Width="250" Margin="0,5,0,5" Background="#FF509DF8"/>
+                    <Button   x:Name="bnt_list_contra" Click="bntclick_list_contra" Content="Listado de contratos" BorderBrush="Black" Height="25" Width="250" Margin="0,5,0,10" Background="#FF509DF8"/>
+
+
+                </StackPanel>
+            </Border>
+        </StackPanel>
+
+    </Grid>
+</Controls:MetroWindow>

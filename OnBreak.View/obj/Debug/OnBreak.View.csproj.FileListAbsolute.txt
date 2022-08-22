@@ -1,0 +1,353 @@
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\OnBreak.View.exe.config
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\OnBreak.View.exe
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\OnBreak.View.pdb
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\ControlzEx.dll
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.dll
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\ControlzEx.pdb
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\ControlzEx.xml
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.pdb
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.xml
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\obj\Debug\OnBreak.View.csprojAssemblyReference.cache
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\obj\Debug\Resources\Icons.baml
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\obj\Debug\MainWindow.g.cs
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\obj\Debug\App.g.cs
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\obj\Debug\OnBreak.View_MarkupCompile.cache
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\obj\Debug\OnBreak.View_MarkupCompile.lref
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\obj\Debug\App.baml
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\obj\Debug\MainWindow.baml
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\obj\Debug\OnBreak.View.g.resources
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\obj\Debug\OnBreak.View.Properties.Resources.resources
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\obj\Debug\OnBreak.View.csproj.GenerateResource.cache
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\obj\Debug\OnBreak.View.csproj.CoreCompileInputs.cache
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\obj\Debug\OnBreak.View.csproj.CopyComplete
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\obj\Debug\OnBreak.View.exe
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\obj\Debug\OnBreak.View.pdb
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\obj\Debug\Administracion_clientes.g.cs
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\obj\Debug\Administracion_clientes.baml
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\obj\Debug\Administracion_contratos.g.cs
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\obj\Debug\Listado_clientes.g.cs
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\obj\Debug\Listado_contratos.g.cs
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\obj\Debug\Administracion_contratos.baml
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\obj\Debug\Listado_clientes.baml
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\obj\Debug\Listado_contratos.baml
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MaterialDesignColors.dll
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\OnBreak.Negocios.dll
+C:\Users\Kishi_1.2\source\repos\Solucion_OnBreak\OnBreak.View\bin\Debug\OnBreak.Negocios.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\obj\Debug\OnBreak.View.csprojAssemblyReference.cache
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\obj\Debug\Resources\Icons.baml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\obj\Debug\Administracion_clientes.g.cs
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\obj\Debug\Administracion_contratos.g.cs
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\obj\Debug\Listado_clientes.g.cs
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\obj\Debug\Listado_contratos.g.cs
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\obj\Debug\MainWindow.g.cs
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\obj\Debug\App.g.cs
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\obj\Debug\OnBreak.View_MarkupCompile.cache
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\obj\Debug\OnBreak.View_MarkupCompile.lref
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\OnBreak.View.exe.config
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\OnBreak.View.exe
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\OnBreak.View.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\ControlzEx.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MaterialDesignColors.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\OnBreak.Negocios.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\OnBreak.Datos.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\EntityFramework.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\OnBreak.Negocios.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\OnBreak.Negocios.dll.config
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\ControlzEx.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\ControlzEx.xml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.xml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MaterialDesignColors.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\OnBreak.Datos.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\EntityFramework.xml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\obj\Debug\App.baml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\obj\Debug\Administracion_clientes.baml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\obj\Debug\Administracion_contratos.baml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\obj\Debug\Listado_clientes.baml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\obj\Debug\Listado_contratos.baml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\obj\Debug\MainWindow.baml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\obj\Debug\OnBreak.View.g.resources
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\obj\Debug\OnBreak.View.Properties.Resources.resources
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\obj\Debug\OnBreak.View.csproj.GenerateResource.cache
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\obj\Debug\OnBreak.View.csproj.CoreCompileInputs.cache
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\obj\Debug\OnBreak.View.csproj.CopyComplete
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\obj\Debug\OnBreak.View.exe
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\obj\Debug\OnBreak.View.pdb
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\htoma\OneDrive\Escritorio\Desarrollo de software examen\Producto\Solucion_OnBreak\OnBreak.View\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\obj\Debug\OnBreak.View.csprojAssemblyReference.cache
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\obj\Debug\Resources\Icons.baml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\obj\Debug\Administracion_clientes.g.cs
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\obj\Debug\Administracion_contratos.g.cs
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\obj\Debug\Listado_clientes.g.cs
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\obj\Debug\Listado_contratos.g.cs
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\obj\Debug\MainWindow.g.cs
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\obj\Debug\App.g.cs
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\obj\Debug\OnBreak.View_MarkupCompile.cache
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\obj\Debug\OnBreak.View_MarkupCompile.lref
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\obj\Debug\OnBreak.View.exe
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\obj\Debug\OnBreak.View.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\OnBreak.View.exe.config
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\OnBreak.View.exe
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\OnBreak.View.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\ControlzEx.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\EntityFramework.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MaterialDesignColors.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\OnBreak.Negocios.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\OnBreak.Datos.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\OnBreak.Negocios.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\OnBreak.Negocios.dll.config
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\ControlzEx.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\ControlzEx.xml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\EntityFramework.xml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.xml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\OnBreak.Datos.pdb
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\obj\Debug\App.baml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\obj\Debug\Administracion_clientes.baml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\obj\Debug\Administracion_contratos.baml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\obj\Debug\Listado_clientes.baml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\obj\Debug\Listado_contratos.baml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\obj\Debug\MainWindow.baml
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\obj\Debug\OnBreak.View.g.resources
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\obj\Debug\OnBreak.View.Properties.Resources.resources
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\obj\Debug\OnBreak.View.csproj.GenerateResource.cache
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\obj\Debug\OnBreak.View.csproj.CoreCompileInputs.cache
+C:\Users\Kishi_1.2\Desktop\Solucion_OnBreak\OnBreak.View\obj\Debug\OnBreak.View.csproj.CopyComplete
